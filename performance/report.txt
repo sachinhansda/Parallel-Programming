@@ -1,0 +1,27 @@
+mutex.cpp
+	no. of thread = 10
+	no. of data = 100
+	max time taken = 0.00066 s
+	min time taken = 0.00048 s
+	avg time taken = 0.00056 s
+
+busy wait.cpp
+	no. of thread = 10
+	no. of data = 100
+	max time taken = 0.11785 s
+	min time taken = 0.06407 s
+	avg time taken = 0.09002 s
+
+condition_variable.cpp
+	no. of thread = 10
+	no. of data = 100
+	max time taken = 0.00079 s
+	min time taken = 0.00053 s
+	avg time taken = 0.00061 s
+
+barrier.cpp
+	no. of thread = 10
+	no. of data = 100
+	max time taken = 0.02692 s
+	min time taken = 0.02172 s
+	avg time taken = 0.02508 s
